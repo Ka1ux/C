@@ -23,11 +23,36 @@ C/
 
 ## 📌 Projetos
 
-### 🛠 **Atividade1 – Não desenvolvida**
-- **Status:** 🚧 Incompleta  
-- **Descrição:** Esta atividade ainda não foi implementada.
+### 💰 Atividade1 – Analisador de Variação de Preços
 
+- **Status:** ✅ Completo
+- **Descrição:** Programa em C que analisa a variação de preços de **3 produtos**, calcula a variação percentual e classifica a situação do preço.
+- **Funcionalidades:**
+   - Lê nome, preço anterior e preço atual de cada produto
+   - Calcula a variação: ((preço_atual - preço_anterior) / preço_anterior) * 100
+- Classifica a situação:
+    - 10% → **AUMENTO ABUSIVO**
+    - 0–10% → **AUMENTO**
+    - <0 → **QUEDA**
+    - =0 → **ESTÁVEL**
+-Exibe relatório para cada produto
+```
+----------------------------------
+Analisando Produto 1 de 3
+----------------------------------
+Digite o nome do produto: Arroz
+Digite o preço anterior (R$): 20
+Digite o preço atual (R$): 22
+
+Resumo de variação de Preços:
+Produto: Arroz
+Preço Anterior: R$20.00
+Preço Atual: R$22.00
+Variação: 10.00%
+Situação: AUMENTO
+----------------------------------
 ---
+```
 
 ### 🏋️ **Atividade2 – Calculadora de IMC**
 - **Status:** ✅ Completo  
