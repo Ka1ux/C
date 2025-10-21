@@ -13,7 +13,7 @@ Atualmente:
 
 ```text
 C/
-├── Atividade1/        # Ainda não desenvolvida
+├── Atividade1/        # Variação de preço
 ├── Atividade2/        # Calculadora de IMC
 ├── Atividade3/        # Monitoramento de carros no pedágio
 ├── Atividade4/        # Ordenação de preços com Bubble Sort
