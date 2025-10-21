@@ -4,8 +4,7 @@ Este repositório reúne **5 mini-projetos em C** desenvolvidos para atividades 
 Cada pasta corresponde a um projeto independente com objetivos específicos.
 
 Atualmente:  
-- **Completos:** Atividade2, Atividade3, Atividade4, Numero_maior  
-- **Incompletos:** Atividade1  
+- **Completos:** Atividade1, Atividade2, Atividade3, Atividade4, Numero_maior  
 
 ---
 
